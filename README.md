@@ -86,6 +86,9 @@ Check all the gates following the same procedure.
 
 ![293624933-b7df9a64-19d9-474d-8993-b7e347df7b1d](https://github.com/KARTHICKT24/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347526/77cf97f8-d5c6-4035-9a06-2e5834a984f1)
 
+## Timing diagram:
+![293624967-843c9463-4be9-4a4e-8b02-39980f91bc6b](https://github.com/KARTHICKT24/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347526/5c630771-5e34-4a12-adb7-b9f7ae63e87d)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
