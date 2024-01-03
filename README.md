@@ -1,4 +1,4 @@
-![293624933-b7df9a64-19d9-474d-8993-b7e347df7b1d](https://github.com/KARTHICKT24/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347526/a23c7230-a9a9-4933-b778-602de441c8c9)# NAME: KARTHICK KISHORE.T
+# NAME: KARTHICK KISHORE.T
 # REF NO: 212223220042
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
@@ -61,17 +61,17 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 # Program:
-module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
-input a,b;
-output y1,y2,y3,y4,y5,y6,y7;
-and(y1,a,b);
-or(y2,a,b);
-not(y3,a);
-xor(y4,a,b);
-nand(y5,a,b);
-nor(y6,a,b); 
-xnor(y7,a,b); 
-endmodule
+                            module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
+                            input a,b;
+                            output y1,y2,y3,y4,y5,y6,y7;
+                            and(y1,a,b);
+                            or(y2,a,b);
+                            not(y3,a);
+                            xor(y4,a,b);
+                            nand(y5,a,b);
+                            nor(y6,a,b); 
+                            xnor(y7,a,b); 
+                            endmodule
 
 
 
